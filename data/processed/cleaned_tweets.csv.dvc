@@ -1,0 +1,5 @@
+outs:
+- md5: 1ae89ea735c99fda434b07f2fbef5431
+  size: 48186
+  hash: md5
+  path: cleaned_tweets.csv
