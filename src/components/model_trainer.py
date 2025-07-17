@@ -31,7 +31,7 @@ training_args = TrainingArguments(
     weight_decay=0.01,
     logging_dir='./logs',
     logging_steps=10,
-    evaluation_strategy="epoch"
+    eval_strategy="epoch"
 )
 
 # Create a Trainer

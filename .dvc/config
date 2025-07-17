@@ -2,5 +2,4 @@
     remote = myremote
 ['remote "myremote"']
     url = gdrive://1trZuFfMv_6sPqqMAqig4SDY-miVRbipX
-    gdrive_client_id = 900878502298-1convoccpjcpv49mmoh9g3olj251ul26.apps.googleusercontent.com
-    gdrive_client_secret = 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
+    
