@@ -2,6 +2,5 @@
 /mlruns
 /results
 
-.dvc/config
-eenv
-/config.local
+.env
+/__pycache__/
