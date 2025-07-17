@@ -1,0 +1,5 @@
+outs:
+- md5: c4becb78b9820c2b5349ec9af4eb596d
+  size: 30073
+  hash: md5
+  path: recent_tweets.csv
