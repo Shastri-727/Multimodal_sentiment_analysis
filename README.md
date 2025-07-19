@@ -16,6 +16,6 @@
 
 We now have a fully functional, end-to-end "scaffolding" for a machine learning application. The next phases will focus on significantly improving each component of this foundation.
 
-## Phase 2: Advanced Data & Models. ( CURRENTLY )
+## Phase 2: Advanced Data & Models. ( CURRENT )
 
 The goal of this phase is to move beyond a single data source and a simple model. We will introduce a more diverse dataset to improve the model's real-world performance and integrate a more powerful Transformer architecture. We will also begin laying the groundwork for the Ethical AI framework by introducing a bias detection toolkit.
